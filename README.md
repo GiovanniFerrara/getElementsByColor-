@@ -33,9 +33,9 @@ Just download the file getElementByColor.js and include it to you scripts: <scri
 
 * Giovanni Ferrara
 
-##Contributors
+## Contributors
 
-*Gary Clark
+* Gary Clark
 
 ## License
 
