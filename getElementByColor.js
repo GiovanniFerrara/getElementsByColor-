@@ -7,11 +7,6 @@ Document.prototype.getElementsByColor= function(col){
                     )
 }
 
-//Select the header in the h1 by its color
-var header=document.getElementsByColor("black");
-console.log(header)
-
-
 //Transform color formats to rgb
 function colorToRGB(col){
   if(/^#[0-9a-f]{3}(?:[0-9a-f]{3})?$/i.test(col)){
